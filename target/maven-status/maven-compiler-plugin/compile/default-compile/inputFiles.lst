@@ -1,9 +1,0 @@
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/OffersApiApplication.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/OffersApiConfiguration.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/services/DataStoreService.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/api/OffersApiResource.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/factory/ObjectMapperFactory.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/services/DataStoreServiceImpl.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/OffersApiEventApplicationListener.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/OffersApiComponentProvider.java
-/Users/465910/projects/personal/offers-api/src/main/java/com/steves165/offersapi/entities/Offer.java
