@@ -1,0 +1,14 @@
+#
+# Generated on Sun Sep 13 14:24:42 BST 2020 by hk2-inhabitant-generator
+#
+
+[com.steves165.offersapi.factory.ObjectMapperFactory]S-
+contract={com.fasterxml.jackson.databind.ObjectMapper}
+type=PROVIDE
+
+[com.steves165.offersapi.factory.ObjectMapperFactory]S
+contract={org.glassfish.hk2.api.Factory}
+
+[com.steves165.offersapi.services.DataStoreServiceImpl]S
+contract={com.steves165.offersapi.services.DataStoreService}
+

@@ -1,0 +1,16 @@
+server:
+  type: simple
+  applicationContextPath: /
+  adminContextPath: /admin
+  connector:
+    type: http
+    port: 3000
+
+logging:
+  level: INFO
+  loggers:
+    com.steves165: INFO
+  appenders:
+    - type: console
+      threshold: ALL
+      target: stdout
